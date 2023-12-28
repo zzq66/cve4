@@ -1,3 +1,11 @@
+NAME OF AFFECTED PRODUCT(S):zzcms
+AFFECTED AND/OR FIXED VERSION(S):zzcms2023
+PROBLEM TYPE:File Upload; 
+Impact:Arbitrary code execution;
+DESCRIPTION:ZZCMS 2023 has a file upload vulnerability in 3/E_bak5.1/upload/index.php, allowing attackers to exploit this vulnerability to gain server privileges and execute arbitrary code.
+
+
+
 First, download the latest version of zzcms:
 ![image](https://github.com/zzq66/cve4/assets/68541960/0a1302bf-ad8e-4a6c-baf2-c159baaf70ed)
 
